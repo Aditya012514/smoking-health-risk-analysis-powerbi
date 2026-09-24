@@ -120,19 +120,11 @@ This makes the dashboard more interactive than a collection of static charts.
 
 ---
 
-## 📊 Dashboard Preview
-
-![Smoking Health Risk Analysis Dashboard](dashboard.png)
-
-> The dashboard includes interactive KPIs, smoking analysis, health-risk analysis, and dynamic organ-wise visuals.
-
----
-
 ## 🎥 Project Demo
 
 A short demonstration video of the interactive dashboard is included in this repository:
-
-**[▶️ Watch the Project Demo](Video%20Project.mp4)**
+.mp4
+**[▶️ Watch the Project Demo](https://github.com/Aditya012514/smoking-health-risk-analysis-powerbi/edit/main/README.md)**
 
 ---
 
@@ -191,8 +183,6 @@ I plan to continue building more projects and applying what I learn to make each
 ### 🔗 Connect With Me
 
 - **LinkedIn:** [Aditya Kumar Singh](https://www.linkedin.com/in/adityaksingh141225/)
-- **Portfolio:** [Portfolio](https://adityaksingh-data-jh42pgy.gamma.site/)
-- **GitHub:** [Aditya012514](https://github.com/Aditya012514)
 
 ---
 
